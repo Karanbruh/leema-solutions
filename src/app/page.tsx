@@ -12,7 +12,7 @@ import Team from "./components/home/team";
 import Testimonial from "./components/home/testimonial";
 
 export const metadata: Metadata = {
-    title: "Studiova",
+    title: "Leema Solutions",
 };
 
 export default function Home() {
